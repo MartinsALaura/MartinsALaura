@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MartinsALaura 
+- 🌱 I’m currently learning Python and Javascript
+- 📫 Find me on instagram: laura_am01
+- 👀 Linkedin: https://www.linkedin.com/in/laura-alves-martins-620a52207/
+- Brazil
