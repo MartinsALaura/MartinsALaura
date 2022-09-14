@@ -3,4 +3,4 @@
 - 📫 Find me on instagram: amartinslaura
 - 👀 Linkedin: https://www.linkedin.com/in/laura-alves-martins-620a52207/
 - Brazil
-- Here you will find some projects that i developed
+- Here you will find some projects that i'm developing
