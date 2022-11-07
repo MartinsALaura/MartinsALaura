@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MartinsALaura be welcome
-- 🌱 I’m currently learning React and Javascript
+- 🌱 I’m currently learning React, Javascript, C# and .NET
 - 📫 Find me on instagram: amartinslaura
 - 👀 Linkedin: https://www.linkedin.com/in/laura-alves-martins-620a52207/
 - Brazil
